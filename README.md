@@ -133,6 +133,8 @@
 
 > 解锁情况可能随各平台策略、IP 归属、区域政策等因素发生变化，以上内容仅为一般性说明，实际体验以使用时为准。
 
+<img src="https://raw.githubusercontent.com/jichangbaike/qingyunti/refs/heads/main/qingyunti-test.png" width="1000">
+
 ---
 
 ## 平台支持与客户端下载指引
