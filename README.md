@@ -21,6 +21,7 @@
 
 ## 快速入口
 
+- ⚠️ **仓库地址**：https://github.com/jichangbaike/qingyunti
 - 👉 **青云梯（QingYunTi） 官网注册入口**：  
     [进入青云梯 QingYunTi 官网](https://finalto.xyz/QkUj1e)
 
