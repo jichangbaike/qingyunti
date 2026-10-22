@@ -10,7 +10,7 @@
 > 
 > 📮 不提供接入服务、账号处理、节点维护和售后支持，请在合法合规前提下自行判断与使用相关服务。
 >
-> 📒 最后更新：**2026-09-10**（如套餐、节点或活动有调整，以官网为准）
+> 📒 最后更新：**2026-10-22**（如套餐、节点或活动有调整，以官网为准）
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -177,12 +177,12 @@
 - **Windows 客户端**  
   - 适用于 Win/10/11 操作系统；
   - 软件内置分流规则，可以手动切换节点；
-  - [下载青云梯 Windows 客户端](https://dl.pbb.dexi009.com/apps/qyt/qytapp-lite.exe) 
+  - [下载青云梯 Windows 客户端](https://dl.pbbapi.rundingtai.com/apps/qyt/qytapp-speed.exe) 
   
 - **macOS 客户端**
   - 支持 Intel 及 Apple Silicon (M1/M2/M3) 芯片；
   - 软件内置分流规则，可以手动切换节点；
-  - [下载青云梯 MacOS 客户端](https://dl.pbb.dexi009.com/apps/qyt/qytapp-lite.pkg)
+  - [下载青云梯 MacOS 客户端](https://dl.pbbapi.rundingtai.com/apps/qyt/qytapp-lite.pkg)
 - **Android 客户端**  
   - 支持安卓手机、平板及智能电视;
   - 软件内置分流规则，可以手动切换节点；
@@ -194,9 +194,9 @@
   - 登录成功后就可以青云梯订阅信息，首页点击启动按钮后，就可以正常使用；
   - iOS超时或者无法使用，请删除配置，重新添加配置进去即可。
 - **Linux 客户端**
-  - [下载青云梯 Linux 客户端]( https://dl.pbb.dexi009.com/apps/qyt/qytapp-linux-lite.zip)
+  - [下载青云梯 Linux 客户端]( https://dl.pbbapi.rundingtai.com/apps/qyt/qytapp-linux-lite.zip)
 - **Openwrt 路由器**  
-  - [Openwrt 插件](https://dl.pbb.dexi009.com/apps/qyt/qytapp-openwrt-lite.zip)
+  - [Openwrt 插件](https://dl.pbbapi.rundingtai.com/apps/qyt/qytapp-openwrt-lite.zip)
 
 > 推荐客户端下载方式及配置示例请以青云梯官网的使用说明为准，避免从不明来源获取软件。
 
@@ -285,5 +285,5 @@ A：建议优先查看青云梯官网的帮助中心、公告与使用说明。�
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`
-- **Last Updated:** `2026-09-10`
-- **Version:** `v1.7`
+- **Last Updated:** `2026-10-22`
+- **Version:** `v1.8`
